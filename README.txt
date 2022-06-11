@@ -1,4 +1,4 @@
-Classic snake game programmin in Python. Design elements borrowed from Python Engineer over at https://www.youtube.com/c/PythonEngineer
+Classic snake game programed in Python. Design elements borrowed from Python Engineer over at https://www.youtube.com/c/PythonEngineer
 
 Author: Neil Haggerty
 
